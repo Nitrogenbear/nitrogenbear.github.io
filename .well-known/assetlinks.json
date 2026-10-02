@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.nitrogenbear.stitchjobs",
+      "sha256_cert_fingerprints": [
+        "E2:94:52:74:E1:D2:E3:B0:F4:0C:37:F0:20:C9:CF:13:7A:A2:B5:9A:1E:79:1D:EF:23:DB:D5:35:6C:16:D5:45"
+      ]
+    }
+  }
+]
